@@ -48,14 +48,13 @@ tipo = 3
 fuerza_rebote = 1.5
 
 [node name="Label" type="Label" parent="."]
-visible = false
 offset_left = 156.0
 offset_top = -9.0
 offset_right = 257.0
 offset_bottom = 14.0
 text = "Carlos Alberto Iriarte Martinez"
 
-[node name="Label2" type="Label" parent="."]
+[node name="label-abdiel" type="Label" parent="."]
 offset_left = 306.0
 offset_top = -108.0
 offset_right = 525.0
@@ -63,7 +62,7 @@ offset_bottom = -85.0
 rotation = 0.00010786
 text = "Abdiel Josue Pacheco Robles"
 
-[node name="Label2" type="Label" parent="."]
+[node name="label-abdiel-backup" type="Label" parent="."]
 offset_left = 306.0
 offset_top = -108.0
 offset_right = 525.0
@@ -71,7 +70,7 @@ offset_bottom = -85.0
 rotation = 0.00010786
 text = "Abdiel Josue Pacheco Robles"
 
-[node name="Label2" type="Label" parent="."]
+[node name="Label4" type="Label" parent="."]
 offset_left = 209.0
 offset_top = 128.0
 offset_right = 331.0
