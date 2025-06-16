@@ -54,5 +54,12 @@ offset_right = 257.0
 offset_bottom = 14.0
 text = "Carlos Alberto Iriarte Martinez"
 
+[node name="Label2" type="Label" parent="."]
+offset_left = 209.0
+offset_top = 128.0
+offset_right = 331.0
+offset_bottom = 151.0
+text = "Gilberto Lomeli"
+
 [connection signal="body_entered" from="reset_area" to="Personaje" method="_on_reset_area_body_entered"]
 [connection signal="body_entered" from="door" to="Personaje" method="_on_door_body_entered"]
