@@ -54,5 +54,13 @@ offset_right = 257.0
 offset_bottom = 14.0
 text = "Carlos Alberto Iriarte Martinez"
 
+[node name="Label2" type="Label" parent="."]
+offset_left = 306.0
+offset_top = -108.0
+offset_right = 525.0
+offset_bottom = -85.0
+rotation = 0.00010786
+text = "Abdiel Josue Pacheco Robles"
+
 [connection signal="body_entered" from="reset_area" to="Personaje" method="_on_reset_area_body_entered"]
 [connection signal="body_entered" from="door" to="Personaje" method="_on_door_body_entered"]
